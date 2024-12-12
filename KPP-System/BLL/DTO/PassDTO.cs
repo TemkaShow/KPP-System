@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Entities
+namespace BLL.DTO
 {
-    public class Pass
+    public class PassDTO
     {
         public int Id { get; set; }
         public DateTime IssueDate { get; set; }
