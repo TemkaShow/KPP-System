@@ -48,5 +48,4 @@ namespace BLL.Services.Impl
             return passDto;
         }
     }
-
 }
